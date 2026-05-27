@@ -1,8 +1,10 @@
 # pong
 A simple pong game made with pygame in python.
+
 Its a 2 player game.
+
 Pygame is required to run this program. Install by - pip install pygame
-Requirments: Python 3.11.9
+
 Features:
 - 2 player local multiplayer
 - Custom sprites and sound effects
